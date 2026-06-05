@@ -27,7 +27,6 @@ Dataset files are not included in this repository.
 - Consistent study methods improved academic performance
 - Mental health had a noticeable impact on results
 
-=======
 # student-performance-dashboard
 A Power BI project that provides insights into student performance through interactive dashboards, KPIs, and visual analytics.
 >>>>>>> 272b4178c13fb6ee3082673fc392ff8019669a22
