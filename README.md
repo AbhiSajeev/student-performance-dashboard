@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Performance Dashboard
 
 This Power BI dashboard predicts and analyzes student academic performance using lifestyle and behavioral factors such as sleep, diet quality, study duration, mental health, and internet quality.
@@ -20,3 +21,7 @@ This Power BI dashboard predicts and analyzes student academic performance using
 
 ## Note
 Dataset files are not included in this repository.
+=======
+# student-performance-dashboard
+A Power BI project that provides insights into student performance through interactive dashboards, KPIs, and visual analytics.
+>>>>>>> 272b4178c13fb6ee3082673fc392ff8019669a22
