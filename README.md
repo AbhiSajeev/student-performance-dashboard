@@ -21,6 +21,12 @@ This Power BI dashboard predicts and analyzes student academic performance using
 
 ## Note
 Dataset files are not included in this repository.
+
+## Key Insights
+- Students with better sleep patterns showed higher predicted scores
+- Consistent study methods improved academic performance
+- Mental health had a noticeable impact on results
+
 =======
 # student-performance-dashboard
 A Power BI project that provides insights into student performance through interactive dashboards, KPIs, and visual analytics.
